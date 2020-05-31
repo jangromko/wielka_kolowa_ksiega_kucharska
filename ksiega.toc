@@ -3,4 +3,6 @@
 \contentsline {section}{Przyk\IeC {\l }adowy przepis}{7}
 \contentsline {part}{II\hspace {1em}Zupy}{9}
 \contentsline {part}{III\hspace {1em}Dania g\IeC {\l }\IeC {\'o}wne}{11}
-\contentsline {part}{IV\hspace {1em}Desery}{13}
+\contentsline {section}{Kurczak Genera\IeC {\l }a}{13}
+\contentsline {section}{Gotowany kurczak w przyprawach}{14}
+\contentsline {part}{IV\hspace {1em}Desery}{15}
